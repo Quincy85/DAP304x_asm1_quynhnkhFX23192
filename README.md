@@ -175,11 +175,3 @@ Gọi function `write_And_Print_Grade_Result`
   ```
   write_And_Print_Grade_Result(class_name)
   ```
-### C. Tương tác với Github để thực hiện đẩy hoặc tải chương trình vừa viết từ máy local sang Github và ngược lại
-### I. Đẩy (Upload) chương trình vừa viết lên Github
-
-### II. Tải (Clone) chương trình vừa viết về máy local để chạy hoặc chỉnh sửa
-- Tại máy local tạo 1 thư mục để chứa tệp chương trình sẽ được tải về từ github
-- Từ terminal bạn sử dụng câu lệnh sau để chỉ đến thư mục mới tạo `cd` _'tên đường dẫn thư mục vừa tạo'_ (vd: cd /users/desktop/abc)
-- Tiếp đến bạn sử dụng câu lệnh sau để clone chương trình về: `git clone` _'đường dẫn được lấy từ github'_
-  - Cách lấy _'đường dẫn được lấy từ github'_ 
