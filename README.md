@@ -8,7 +8,8 @@ Chương trình được xây dựng để giúp thực hiện chấm điểm v�
   - Từ terminal bạn sử dụng câu lệnh sau để chỉ đến thư mục mới tạo `cd` _'tên đường dẫn thư mục vừa tạo'_ (vd: cd /users/desktop/abc)
   - Tiếp đến bạn sử dụng câu lệnh sau để clone chương trình về: `git clone` _'đường dẫn được lấy từ github'_
     - Cách lấy _'đường dẫn được lấy từ github'_ theo hướng dẫn hình bên dưới:
-    <img width="430" alt="Github" src="https://github.com/Quincy85/Quincy85-DAP304x_asm1_quynhnkhFX23192/assets/106717665/002e1690-1b1e-46eb-a54d-25ae5b7b4885">
+    <img width="430" alt="Github" src="https://github.com/Quincy85/DAP304x_asm1_quynhnkhFX23192/assets/106717665/43e7e549-e350-43d5-97a1-225c63718fe8">
+
   - Lúc này toàn bộ chương trình đã được tải về máy local để bạn chạy chương trình
 
 
